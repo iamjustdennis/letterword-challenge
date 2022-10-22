@@ -1,0 +1,17 @@
+C:\Users\Denni\source\repos\letterword-challenge\LetterwordChallenge.Infrastructure\bin\Debug\net6.0\LetterwordChallenge.Infrastructure.deps.json
+C:\Users\Denni\source\repos\letterword-challenge\LetterwordChallenge.Infrastructure\bin\Debug\net6.0\LetterwordChallenge.Infrastructure.dll
+C:\Users\Denni\source\repos\letterword-challenge\LetterwordChallenge.Infrastructure\bin\Debug\net6.0\LetterwordChallenge.Infrastructure.pdb
+C:\Users\Denni\source\repos\letterword-challenge\LetterwordChallenge.Infrastructure\obj\Debug\net6.0\LetterwordChallenge.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Denni\source\repos\letterword-challenge\LetterwordChallenge.Infrastructure\obj\Debug\net6.0\LetterwordChallenge.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denni\source\repos\letterword-challenge\LetterwordChallenge.Infrastructure\obj\Debug\net6.0\LetterwordChallenge.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Denni\source\repos\letterword-challenge\LetterwordChallenge.Infrastructure\obj\Debug\net6.0\LetterwordChallenge.Infrastructure.AssemblyInfo.cs
+C:\Users\Denni\source\repos\letterword-challenge\LetterwordChallenge.Infrastructure\obj\Debug\net6.0\LetterwordChallenge.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Denni\source\repos\letterword-challenge\LetterwordChallenge.Infrastructure\obj\Debug\net6.0\LetterwordChallenge.Infrastructure.dll
+C:\Users\Denni\source\repos\letterword-challenge\LetterwordChallenge.Infrastructure\obj\Debug\net6.0\refint\LetterwordChallenge.Infrastructure.dll
+C:\Users\Denni\source\repos\letterword-challenge\LetterwordChallenge.Infrastructure\obj\Debug\net6.0\LetterwordChallenge.Infrastructure.pdb
+C:\Users\Denni\source\repos\letterword-challenge\LetterwordChallenge.Infrastructure\obj\Debug\net6.0\ref\LetterwordChallenge.Infrastructure.dll
+C:\Users\Denni\source\repos\letterword-challenge\LetterwordChallenge.Infrastructure\bin\Debug\net6.0\LetterwordChallenge.Domain.dll
+C:\Users\Denni\source\repos\letterword-challenge\LetterwordChallenge.Infrastructure\bin\Debug\net6.0\LetterwordChallenge.Domain.pdb
+C:\Users\Denni\source\repos\letterword-challenge\LetterwordChallenge.Infrastructure\obj\Debug\net6.0\LetterwordChallenge.Infrastructure.csproj.CopyComplete
+C:\Users\Denni\source\repos\letterword-challenge\LetterwordChallenge.Infrastructure\bin\Debug\net6.0\LetterwordChallenge.Application.dll
+C:\Users\Denni\source\repos\letterword-challenge\LetterwordChallenge.Infrastructure\bin\Debug\net6.0\LetterwordChallenge.Application.pdb

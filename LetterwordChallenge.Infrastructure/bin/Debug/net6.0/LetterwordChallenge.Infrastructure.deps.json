@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LetterwordChallenge.Infrastructure/1.0.0": {
+        "dependencies": {
+          "LetterwordChallenge.Application": "1.0.0",
+          "LetterwordChallenge.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LetterwordChallenge.Infrastructure.dll": {}
+        }
+      },
+      "LetterwordChallenge.Application/1.0.0": {
+        "dependencies": {
+          "LetterwordChallenge.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LetterwordChallenge.Application.dll": {}
+        }
+      },
+      "LetterwordChallenge.Domain/1.0.0": {
+        "runtime": {
+          "LetterwordChallenge.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LetterwordChallenge.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LetterwordChallenge.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LetterwordChallenge.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

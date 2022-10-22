@@ -1,0 +1,249 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Denni\\source\\repos\\letterword-challenge\\LetterwordChallenge.Console\\LetterwordChallenge.Console.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Denni\\source\\repos\\letterword-challenge\\LetterwordChallenge.Application\\LetterwordChallenge.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Denni\\source\\repos\\letterword-challenge\\LetterwordChallenge.Application\\LetterwordChallenge.Application.csproj",
+        "projectName": "LetterwordChallenge.Application",
+        "projectPath": "C:\\Users\\Denni\\source\\repos\\letterword-challenge\\LetterwordChallenge.Application\\LetterwordChallenge.Application.csproj",
+        "packagesPath": "C:\\Users\\Denni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Denni\\source\\repos\\letterword-challenge\\LetterwordChallenge.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Denni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Denni\\source\\repos\\letterword-challenge\\LetterwordChallenge.Domain\\LetterwordChallenge.Domain.csproj": {
+                "projectPath": "C:\\Users\\Denni\\source\\repos\\letterword-challenge\\LetterwordChallenge.Domain\\LetterwordChallenge.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.22055.15\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Denni\\source\\repos\\letterword-challenge\\LetterwordChallenge.Console\\LetterwordChallenge.Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Denni\\source\\repos\\letterword-challenge\\LetterwordChallenge.Console\\LetterwordChallenge.Console.csproj",
+        "projectName": "LetterwordChallenge.Console",
+        "projectPath": "C:\\Users\\Denni\\source\\repos\\letterword-challenge\\LetterwordChallenge.Console\\LetterwordChallenge.Console.csproj",
+        "packagesPath": "C:\\Users\\Denni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Denni\\source\\repos\\letterword-challenge\\LetterwordChallenge.Console\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Denni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Denni\\source\\repos\\letterword-challenge\\LetterwordChallenge.Infrastructure\\LetterwordChallenge.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Denni\\source\\repos\\letterword-challenge\\LetterwordChallenge.Infrastructure\\LetterwordChallenge.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.22055.15\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Denni\\source\\repos\\letterword-challenge\\LetterwordChallenge.Domain\\LetterwordChallenge.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Denni\\source\\repos\\letterword-challenge\\LetterwordChallenge.Domain\\LetterwordChallenge.Domain.csproj",
+        "projectName": "LetterwordChallenge.Domain",
+        "projectPath": "C:\\Users\\Denni\\source\\repos\\letterword-challenge\\LetterwordChallenge.Domain\\LetterwordChallenge.Domain.csproj",
+        "packagesPath": "C:\\Users\\Denni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Denni\\source\\repos\\letterword-challenge\\LetterwordChallenge.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Denni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.22055.15\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Denni\\source\\repos\\letterword-challenge\\LetterwordChallenge.Infrastructure\\LetterwordChallenge.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Denni\\source\\repos\\letterword-challenge\\LetterwordChallenge.Infrastructure\\LetterwordChallenge.Infrastructure.csproj",
+        "projectName": "LetterwordChallenge.Infrastructure",
+        "projectPath": "C:\\Users\\Denni\\source\\repos\\letterword-challenge\\LetterwordChallenge.Infrastructure\\LetterwordChallenge.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Denni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Denni\\source\\repos\\letterword-challenge\\LetterwordChallenge.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Denni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Denni\\source\\repos\\letterword-challenge\\LetterwordChallenge.Application\\LetterwordChallenge.Application.csproj": {
+                "projectPath": "C:\\Users\\Denni\\source\\repos\\letterword-challenge\\LetterwordChallenge.Application\\LetterwordChallenge.Application.csproj"
+              },
+              "C:\\Users\\Denni\\source\\repos\\letterword-challenge\\LetterwordChallenge.Domain\\LetterwordChallenge.Domain.csproj": {
+                "projectPath": "C:\\Users\\Denni\\source\\repos\\letterword-challenge\\LetterwordChallenge.Domain\\LetterwordChallenge.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.22055.15\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
