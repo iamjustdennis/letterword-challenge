@@ -22,10 +22,13 @@ public class Program
         var matchLength = decimal.Parse(args[1]);
 
         var start = DateTime.Now;
-        var match = wordMatcher?.GetMatchesWithLength(filePath, matchLength);
+        var matches = wordMatcher?.GetMatchesWithLength(filePath, matchLength);
         var end = DateTime.Now;
 
-        Console.WriteLine($"Total matches: {match?.Matches.Count}");
+        foreach(var match in matches!.Matches)
+            Console.WriteLine(match.Word.Value);
+
+        Console.WriteLine($"Total matches: {matches!.Matches.Count}");
         Console.WriteLine($"Time elapsed: {end - start}");
     }
 }
