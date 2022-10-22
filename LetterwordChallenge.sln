@@ -5,24 +5,19 @@ VisualStudioVersion = 17.1.32127.271
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LetterwordChallenge.Console", "LetterwordChallenge.Console\LetterwordChallenge.Console.csproj", "{4E0D688E-8D6C-4940-8127-410E80B0041B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{E75A716D-9110-4769-9F72-0E5A5F177348}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\OneDrive\Documenten\6WordChallenge\README.md = ..\..\..\OneDrive\Documenten\6WordChallenge\README.md
-	EndProjectSection
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LetterwordChallenge.Infrastructure", "LetterwordChallenge.Infrastructure\LetterwordChallenge.Infrastructure.csproj", "{C3BED279-A668-460A-A80D-8FA5978BAEDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterwordChallenge.Domain", "LetterwordChallenge.Domain\LetterwordChallenge.Domain.csproj", "{280F655F-057F-4DF1-872E-59972FB0F780}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LetterwordChallenge.Domain", "LetterwordChallenge.Domain\LetterwordChallenge.Domain.csproj", "{280F655F-057F-4DF1-872E-59972FB0F780}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterwordChallenge.Application", "LetterwordChallenge.Application\LetterwordChallenge.Application.csproj", "{13B7768D-9645-4BAA-8329-B9F8070BA52D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LetterwordChallenge.Application", "LetterwordChallenge.Application\LetterwordChallenge.Application.csproj", "{13B7768D-9645-4BAA-8329-B9F8070BA52D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterWordChallenge.Domain.Tests", "LetterWordChallenge.Domain.Tests\LetterWordChallenge.Domain.Tests.csproj", "{0CBCC3F8-C628-4B25-9389-41BD0D587A36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LetterWordChallenge.Domain.Tests", "LetterWordChallenge.Domain.Tests\LetterWordChallenge.Domain.Tests.csproj", "{0CBCC3F8-C628-4B25-9389-41BD0D587A36}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{3DCAD51B-8751-4C36-B10C-9CB5CA2F7462}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterwordChallenge.Application.Tests", "LetterwordChallenge.Application.Tests\LetterwordChallenge.Application.Tests.csproj", "{59278F6F-999B-47FF-B83E-9E2F291BCBB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LetterwordChallenge.Application.Tests", "LetterwordChallenge.Application.Tests\LetterwordChallenge.Application.Tests.csproj", "{59278F6F-999B-47FF-B83E-9E2F291BCBB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterwordChallenge.InfrastructureTests", "LetterwordChallenge.InfrastructureTests\LetterwordChallenge.InfrastructureTests.csproj", "{B984A4A9-AD40-4A0A-93E1-E8B211D7DDB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LetterwordChallenge.InfrastructureTests", "LetterwordChallenge.InfrastructureTests\LetterwordChallenge.InfrastructureTests.csproj", "{B984A4A9-AD40-4A0A-93E1-E8B211D7DDB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
