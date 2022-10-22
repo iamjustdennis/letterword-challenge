@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "LetterwordChallenge.Console": {
-      "commandName": "Project",
-      "commandLineArgs": "./testFile.txt 6"
-    }
-  }
-}
